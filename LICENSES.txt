@@ -1,0 +1,21 @@
+This document contains a list of all licenses for DuskOS or all DuskOS based Operating Systems.
+
+-- LICENSES --
+
+- DuskOS Operating System Closed-Source License - 1.0
+	(Short Version: DCSL-1.0)
+-DuskOS Operating System Open-Source License - 1.0
+ 	(Short Version: DOSL-1.0)
+
+- MIT Open Source License.
+	- WMCommandFramework
+	- LoggerSharp
+
+- BSD Clause 3
+	- CosmosOS-Kernel (C# Open Source Managed Operating System) + 	Source-Code.
+	- Aura Operating System("AOS")-Kernel + Source-Code.
+
+-- INDIVIDUALS --
+
+Taylor Rose (Roseman-Artz): ART & Design for DuskOS.
+John Welsh: Assisted in development.

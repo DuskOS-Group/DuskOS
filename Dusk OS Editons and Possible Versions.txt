@@ -1,0 +1,21 @@
+All Dusk OS Editions:
+
+----- MAIN EDITIONS (x86 or x64) -----
+
+--  [DUSK OS EDITION]  |  [PRICE]  |  [DESCRIPTION] --
+
+- Dusk OS Basic | FREE | The basic server edition with no S-UI support.
+- Dusk OS Server | FREE | The advanced server edition with full S-UI support.
+- Dusk OS Desktop | FREE | The basic desktop edition with limited D-UI support.
+- Dusk OS Professional | N/A | The advanced desktop edition with full D-UI support.
+- Dusk OS Ultimate | Donor-Only | The advanced and highest possible desktop edition with full D-UI support with integrated BASIC or SERVER editions, and all sub-editions of Dusk OS Professional.
+
+----- ARM Editions  -----
+
+- Dusk OS ARM-Basic | FREE w/ account | Basic server edition with ARM support.
+- Dusk OS ARM-Server | FREE w/ account | Advanced server edition with ARM support.
+- Dusk OS ARM-Desktop | FREE w/ account | Basic desktop edition with ARM support.
+
+----- Console Editions -----
+
+- GameOS | FREE | Console port of DUSK-OS Desktop. With stand-alone design and functionality.

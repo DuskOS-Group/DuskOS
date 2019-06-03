@@ -4,8 +4,14 @@ This document contains a list of all licenses for DuskOS or all DuskOS based Ope
 
 - DuskOS Operating System Closed-Source License - 1.0
 	(Short Version: DCSL-1.0)
--DuskOS Operating System Open-Source License - 1.0
+	- DuskOS Desktop Professional Edition
+	- DuskOS Ultimate Edition
+	
+- DuskOS Operating System Open-Source License - 1.0
  	(Short Version: DOSL-1.0)
+	- DuskOS Server Basic Edition
+	- DuskOS Server Professional Edition
+	- DuskOS Desktop Personal Edition
 
 - MIT Open Source License.
 	- WMCommandFramework
@@ -17,5 +23,8 @@ This document contains a list of all licenses for DuskOS or all DuskOS based Ope
 
 -- INDIVIDUALS --
 
-Taylor Rose (Roseman-Artz): ART & Design for DuskOS.
 John Welsh: Assisted in development.
+
+-- GROUPS --
+
+Aura-Team: Allowed me to use code from their [COSMOS](http://www.github.com/CosmosOS/Cosmos)-based Operating System, and assisted in development of DuskOS.
